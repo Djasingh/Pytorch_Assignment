@@ -1,4 +1,4 @@
-Problem:
+## Problem:
 The data is supplied in the attached .pkl file, and comprises a 50x50 grid of digital terrain
 elevation heights. A value of -100 indicates a missing value. Your first task will be to read the
 data into Python and to extract some basic information describing the data. You can plot the
